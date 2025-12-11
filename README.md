@@ -55,13 +55,11 @@ A modern, responsive portfolio website built with **PHP**, **HTML5**, **CSS3**, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rednixer&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednixer&theme=dark&hide_border=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rednixer&theme=dark)](https://github.com/rednixer)
 
 </div>
 
@@ -119,7 +117,7 @@ Feel free to reach out if you want to:
 
 <div align="center">
 
-### "The best way to predict the future is to invent it." – Alan Kay
+### "The best way to predict the future is to invent it." – 
 
 ⭐ If you find my work interesting, feel free to star some of my repositories!
 
