@@ -17,7 +17,7 @@
 
 Hi! I'm Nicolas, a passionate **Full Stack Developer** from Italy. I love building beautiful, functional web applications and exploring new technologies. Currently focused on creating amazing user experiences with **Frontend** and solid backends with **Backend** technologies.
 
-- 🎯 **Age**: 18 years old
+- 🎯 **Age**: 19 years old
 - 📍 **Location**: Italy
 - 🚀 **Currently**: Building cool projects and learning new tech
 - 💡 **Passion**: Web development, clean code, and problem-solving
